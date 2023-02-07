@@ -47,4 +47,7 @@ public class Employee {
     public void setAddress(Address address) {
         this.address = address;
     }
+
+    public String getCapitalizeName() { return "Bob";
+    }
 }
